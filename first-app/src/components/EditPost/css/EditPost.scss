@@ -1,0 +1,52 @@
+.editPost .editPost-header .btn-back {
+    align-self: center;
+    background: #e17055;
+    border: 1px solid #e17055;
+    font-size: 15px;
+    line-height: 15px;
+    font-weight: 400;
+    color: #FFF;
+    padding: 10px;
+    cursor: pointer;
+    text-decoration: none;
+}
+
+.editPost .editPost-content {
+    margin-top : 20px;
+}
+
+.editPost .editPost-content .group {
+    margin-bottom: 10px;
+}
+
+.editPost .editPost-content .group .label{
+    display: block;
+    margin-bottom: 6px;
+}
+
+.editPost .editPost-content .input {
+    width: 90%;
+    margin-left: 20px;
+    font-size: 13px;
+    line-height: 13px;
+    border: none;
+    padding: 6px 0 6px 6px;
+    box-shadow: 0px 0px 1px 1px #DDD;
+}
+
+.editPost .editPost-content textarea  {
+    height: 100px;
+}
+
+.editPost .editPost-content .editPost-btnEdit  {
+    background: #28a745;
+    border: 1px solid #28a745;
+    font-size: 15px;
+    line-height: 15px;
+    font-weight: 400;
+    color: #FFF;
+    padding: 10px;
+    margin-left : 20px;
+    cursor: pointer;
+}
+

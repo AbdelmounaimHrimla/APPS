@@ -1,0 +1,68 @@
+.posts .posts-header .posts-btnNew {
+    align-self: center;
+    background: #007bff;
+    border: 1px solid #007bff;
+    font-size: 15px;
+    line-height: 15px;
+    font-weight: 400;
+    color: #FFF;
+    padding: 10px;
+    cursor: pointer;
+    text-decoration: none;
+}
+
+
+.posts .posts-content {
+    margin-top: 10px;
+}
+
+.posts .posts-content table {
+    width: 100%;
+    text-align: center;
+}
+
+.posts .posts-content table thead{
+    background: #74b9ff;
+    color: #000;
+}
+
+.posts .posts-content table thead th{
+    padding: 3px 0;
+}
+
+.posts .posts-content table tbody tr{
+    background: #f5f6fa;
+    font-size: 16px;
+    line-height: 16px;
+}
+
+.posts .posts-content table tbody td{
+    padding: 5px 0;
+}
+
+.posts .posts-content table tbody .posts-btnShow,
+.posts .posts-content table tbody .posts-btnEdit,
+.posts .posts-content table tbody .posts-btnDelete {
+    margin: 0 5px;
+    font-size: 15px;
+    line-height: 15px;
+    padding: 0px 5px;
+    font-weight: 500;
+    color: #FFF;
+    text-decoration:none
+}
+.posts .posts-content table tbody .posts-btnShow {
+    background: #17a2b8;
+    border: 1px solid #17a2b8;
+}
+
+.posts .posts-content table tbody .posts-btnEdit {
+    background: green;
+    border: 1px solid #17a2b8;
+}
+
+.posts .posts-content table tbody .posts-btnDelete {
+    background: red;
+    border: 1px solid #17a2b8;
+}
+

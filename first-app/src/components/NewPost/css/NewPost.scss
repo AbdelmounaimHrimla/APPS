@@ -1,0 +1,41 @@
+.newPost .header {
+    display: flex;
+    justify-content: space-between;
+    align-content: center;
+
+}
+
+.newPost .header button {
+    align-self: center;
+    background: #2196F3;
+    border: 1px solid #2196F3;
+    font-size: 15px;
+    line-height: 15px;
+    padding: 5px 10px;
+    font-weight: 500;
+    color: #fff;
+}
+
+.newPost .header h1 {
+    margin: 0;
+    padding: 0;
+    color: #AAA;
+}
+
+.newPost .content {
+    margin: 10px 0 0 10px;
+    width: 400px;
+    box-shadow: 0 0 2px 2px #DDD;
+    padding: 10px;
+}
+
+.newPost .btn-save {
+    background: #2196F3;
+    border: 1px solid #2196F3;
+    font-size: 15px;
+    line-height: 15px;
+    padding: 3px 10px;
+    color: #fff;
+    margin-top: 20px;
+    
+}
